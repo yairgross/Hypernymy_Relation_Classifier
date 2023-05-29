@@ -1,0 +1,7 @@
+FeaturesCalculator$ReducerClass.class
+FeaturesCalculator.class
+InputFormatFeatureCalc.class
+RecordReaderFeaturesCalc.class
+DependencyPathMap.class
+FeaturesCalculator$PartitionerClass.class
+FeaturesCalculator$MapperClass.class
